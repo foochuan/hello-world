@@ -7,3 +7,6 @@ server: modified from server
 
 local: adding message from local
 local: add second line from local to test second commit
+
+
+local: add local test to test conflict
