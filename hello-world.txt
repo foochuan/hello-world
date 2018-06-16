@@ -2,3 +2,4 @@ add text into new file
 
 develop changes 1
 develop changes 2
+master changes 1
