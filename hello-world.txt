@@ -1,14 +1,2 @@
 add text into new file
 
-add change in master branch
-
-add more changes
-
-add more changes 2
-
-add more changes 3
-
-add more changes 4
-
-develop changes 1
-develop changes 2
