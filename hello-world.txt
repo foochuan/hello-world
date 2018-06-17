@@ -4,3 +4,6 @@ develop changes 1
 develop changes 2
 master changes 1
 develop changes 3
+
+
+feature/new change 1
